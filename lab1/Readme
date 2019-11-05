@@ -1,0 +1,38 @@
+Project Name: Lexical Analysis
+Project Specification: 
+  Please See PROGRAM Section, Chapter Two, Modern Compiler Implementation in C.
+  (Page 33 for English Version, Page Youknow for Chinese Version.:))
+
+Before starting the project, please read Section 2.5 "Lex: A lexical analyzer generator"
+(Page 30-33 in the book) carefully. This section will teach you how to write the program.
+
+Due Date: 23:59, 15 October, 2017
+
+Coding Environment:
+Linux distributions with gcc & flex. flex is the current lex tool we talked in the textbook,
+you can use "apt-get install flex" to install flex on Debian, Ubuntu or likewise command on other systems.
+
+About this folder:
+Readme	 	this file.
+project		the workspace of this lab, which contains all the files need to be modified and the grading script. After you finish your code, run the grading script to see if you have passed. Do not change the grading script.
+testcases	the folder of all testcases when grading your code.
+refs-1		the folder of all references.
+
+How to test & grade:
+1. Run "make" in the "project" floder
+2. Run "./gradeMe-1.sh" to see your grade
+3. Check errors and debug until the script says you pass
+
+Submission: 
+1. Only submit "project" and document, Type "tar czvf 14302010001.tgz project Document.pdf" to package them to 14302010001.tar.
+(Your document need not to be too complex, just briefly describle how you solve this problem with at most 200 words)
+2. Upload 14302010001.tar to ftp://10.132.141.33/classes/classes/14/"The root folder of Compiler"/WORK_UPLOAD/lab1/
+
+
+Note:
+Compiling Error means Zero Point & Standard Test Platform is Debian.
+Make sure that your output is the same as reference output.
+
+WARNING: COPY FROM OTHERS WILL BOTH GET ZERO!
+
+Any problem, contract TA: WeChat:18818264100 
